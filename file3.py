@@ -4,3 +4,5 @@ def greet():
 	print("hello")
 
 greet()
+
+print("hai")
